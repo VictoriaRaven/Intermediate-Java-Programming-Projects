@@ -8,8 +8,6 @@ Links:
 - [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
 
 ## Information
-
-### Advanced Programming Course
 This is about Intermediate-Java-Programming-Projects based on the class course of UMGC. Documentation in pdf is at the front based on the topic title section. My source code are also here in Java, but if UMGC wants me to remove it, I will. I posted my project documentation though so you can see what I learned in my projects that is in the UMGC class course Intermediate-Java-Programming based on UMGC course. Under the copyright and policies of intellectual property for UMGC, I will only upload items that do not have an answer key. 
 
 
